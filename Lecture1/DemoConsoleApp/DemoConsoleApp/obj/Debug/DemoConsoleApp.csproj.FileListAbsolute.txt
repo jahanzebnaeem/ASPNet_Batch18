@@ -1,0 +1,7 @@
+F:\Jahanzeb\ASPNet_Batch18\Lecture1\DemoConsoleApp\DemoConsoleApp\bin\Debug\DemoConsoleApp.exe.config
+F:\Jahanzeb\ASPNet_Batch18\Lecture1\DemoConsoleApp\DemoConsoleApp\bin\Debug\DemoConsoleApp.exe
+F:\Jahanzeb\ASPNet_Batch18\Lecture1\DemoConsoleApp\DemoConsoleApp\bin\Debug\DemoConsoleApp.pdb
+F:\Jahanzeb\ASPNet_Batch18\Lecture1\DemoConsoleApp\DemoConsoleApp\obj\Debug\DemoConsoleApp.csprojAssemblyReference.cache
+F:\Jahanzeb\ASPNet_Batch18\Lecture1\DemoConsoleApp\DemoConsoleApp\obj\Debug\DemoConsoleApp.csproj.CoreCompileInputs.cache
+F:\Jahanzeb\ASPNet_Batch18\Lecture1\DemoConsoleApp\DemoConsoleApp\obj\Debug\DemoConsoleApp.exe
+F:\Jahanzeb\ASPNet_Batch18\Lecture1\DemoConsoleApp\DemoConsoleApp\obj\Debug\DemoConsoleApp.pdb
