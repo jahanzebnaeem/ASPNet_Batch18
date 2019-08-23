@@ -1,0 +1,10 @@
+F:\Jahanzeb\ASPNet_Batch18\Lecture2\WinAppDemo\WinAppDemo\obj\Debug\WinAppDemo.csprojAssemblyReference.cache
+F:\Jahanzeb\ASPNet_Batch18\Lecture2\WinAppDemo\WinAppDemo\obj\Debug\WinAppDemo.frmCountry.resources
+F:\Jahanzeb\ASPNet_Batch18\Lecture2\WinAppDemo\WinAppDemo\obj\Debug\WinAppDemo.Properties.Resources.resources
+F:\Jahanzeb\ASPNet_Batch18\Lecture2\WinAppDemo\WinAppDemo\obj\Debug\WinAppDemo.csproj.GenerateResource.cache
+F:\Jahanzeb\ASPNet_Batch18\Lecture2\WinAppDemo\WinAppDemo\obj\Debug\WinAppDemo.csproj.CoreCompileInputs.cache
+F:\Jahanzeb\ASPNet_Batch18\Lecture2\WinAppDemo\WinAppDemo\bin\Debug\WinAppDemo.exe.config
+F:\Jahanzeb\ASPNet_Batch18\Lecture2\WinAppDemo\WinAppDemo\bin\Debug\WinAppDemo.exe
+F:\Jahanzeb\ASPNet_Batch18\Lecture2\WinAppDemo\WinAppDemo\bin\Debug\WinAppDemo.pdb
+F:\Jahanzeb\ASPNet_Batch18\Lecture2\WinAppDemo\WinAppDemo\obj\Debug\WinAppDemo.exe
+F:\Jahanzeb\ASPNet_Batch18\Lecture2\WinAppDemo\WinAppDemo\obj\Debug\WinAppDemo.pdb
