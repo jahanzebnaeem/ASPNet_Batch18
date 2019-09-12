@@ -1,0 +1,12 @@
+F:\Jahanzeb\ASPNet_Batch18\Lecture4\PNY.Batch18\PNY.Batch18.WinUI\bin\Debug\PNY.Batch18.WinUI.exe.config
+F:\Jahanzeb\ASPNet_Batch18\Lecture4\PNY.Batch18\PNY.Batch18.WinUI\bin\Debug\PNY.Batch18.WinUI.exe
+F:\Jahanzeb\ASPNet_Batch18\Lecture4\PNY.Batch18\PNY.Batch18.WinUI\bin\Debug\PNY.Batch18.WinUI.pdb
+F:\Jahanzeb\ASPNet_Batch18\Lecture4\PNY.Batch18\PNY.Batch18.WinUI\obj\Debug\PNY.Batch18.WinUI.csprojAssemblyReference.cache
+F:\Jahanzeb\ASPNet_Batch18\Lecture4\PNY.Batch18\PNY.Batch18.WinUI\obj\Debug\PNY.Batch18.WinUI.frmCountry.resources
+F:\Jahanzeb\ASPNet_Batch18\Lecture4\PNY.Batch18\PNY.Batch18.WinUI\obj\Debug\PNY.Batch18.WinUI.Properties.Resources.resources
+F:\Jahanzeb\ASPNet_Batch18\Lecture4\PNY.Batch18\PNY.Batch18.WinUI\obj\Debug\PNY.Batch18.WinUI.csproj.GenerateResource.cache
+F:\Jahanzeb\ASPNet_Batch18\Lecture4\PNY.Batch18\PNY.Batch18.WinUI\obj\Debug\PNY.Batch18.WinUI.csproj.CoreCompileInputs.cache
+F:\Jahanzeb\ASPNet_Batch18\Lecture4\PNY.Batch18\PNY.Batch18.WinUI\obj\Debug\PNY.Batch18.WinUI.exe
+F:\Jahanzeb\ASPNet_Batch18\Lecture4\PNY.Batch18\PNY.Batch18.WinUI\obj\Debug\PNY.Batch18.WinUI.pdb
+F:\Jahanzeb\ASPNet_Batch18\Lecture4\PNY.Batch18\PNY.Batch18.WinUI\obj\Debug\PNY.Batch18.WinUI.frmCity.resources
+F:\Jahanzeb\ASPNet_Batch18\Lecture4\PNY.Batch18\PNY.Batch18.WinUI\obj\Debug\PNY.Batch18.WinUI.frmMain.resources
