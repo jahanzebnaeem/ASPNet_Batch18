@@ -1,0 +1,6 @@
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture5\PNY.Batch18\PNY.Batch18.Common\bin\Debug\PNY.Batch18.Common.dll
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture5\PNY.Batch18\PNY.Batch18.Common\bin\Debug\PNY.Batch18.Common.pdb
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture5\PNY.Batch18\PNY.Batch18.Common\obj\Debug\PNY.Batch18.Common.csprojAssemblyReference.cache
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture5\PNY.Batch18\PNY.Batch18.Common\obj\Debug\PNY.Batch18.Common.csproj.CoreCompileInputs.cache
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture5\PNY.Batch18\PNY.Batch18.Common\obj\Debug\PNY.Batch18.Common.dll
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture5\PNY.Batch18\PNY.Batch18.Common\obj\Debug\PNY.Batch18.Common.pdb

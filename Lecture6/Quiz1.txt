@@ -1,0 +1,7 @@
+Q1: Create a Products table with ID, Name, Quantity and Price Columns.
+Q2: Create a form that can save the products by pressing save button.
+Q3: Create a form that displays all the saved products, it has 2 buttons, 
+	1 Refresh which refreshes the products list
+	2 Add which opens the Add Product form
+
+Note: The image of the scenario is already shared on whats app and also checked in.
