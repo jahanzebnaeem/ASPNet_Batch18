@@ -1,0 +1,4 @@
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture8\PNY.Batch18\PNY.Batch18.POSDAL\bin\Debug\PNY.Batch18.POSDAL.dll
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture8\PNY.Batch18\PNY.Batch18.POSDAL\bin\Debug\PNY.Batch18.POSDAL.pdb
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture8\PNY.Batch18\PNY.Batch18.POSDAL\obj\Debug\PNY.Batch18.POSDAL.dll
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture8\PNY.Batch18\PNY.Batch18.POSDAL\obj\Debug\PNY.Batch18.POSDAL.pdb

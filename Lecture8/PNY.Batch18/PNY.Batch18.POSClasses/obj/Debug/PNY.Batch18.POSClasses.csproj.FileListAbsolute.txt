@@ -1,0 +1,17 @@
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture5\PNY.Batch18\PNY.Batch18.POSClasses\bin\Debug\PNY.Batch18.POSClasses.dll
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture5\PNY.Batch18\PNY.Batch18.POSClasses\bin\Debug\PNY.Batch18.POSClasses.pdb
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture5\PNY.Batch18\PNY.Batch18.POSClasses\obj\Debug\PNY.Batch18.POSClasses.csprojAssemblyReference.cache
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture5\PNY.Batch18\PNY.Batch18.POSClasses\obj\Debug\PNY.Batch18.POSClasses.csproj.CoreCompileInputs.cache
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture5\PNY.Batch18\PNY.Batch18.POSClasses\obj\Debug\PNY.Batch18.POSClasses.dll
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture5\PNY.Batch18\PNY.Batch18.POSClasses\obj\Debug\PNY.Batch18.POSClasses.pdb
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture5\PNY.Batch18\PNY.Batch18.POSClasses\bin\Debug\PNY.Batch18.Common.dll
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture5\PNY.Batch18\PNY.Batch18.POSClasses\bin\Debug\PNY.Batch18.Common.pdb
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture5\PNY.Batch18\PNY.Batch18.POSClasses\obj\Debug\PNY.Batch18.POSClasses.csproj.CopyComplete
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture8\PNY.Batch18\PNY.Batch18.POSClasses\bin\Debug\PNY.Batch18.POSClasses.dll
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture8\PNY.Batch18\PNY.Batch18.POSClasses\bin\Debug\PNY.Batch18.POSClasses.pdb
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture8\PNY.Batch18\PNY.Batch18.POSClasses\bin\Debug\PNY.Batch18.Common.dll
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture8\PNY.Batch18\PNY.Batch18.POSClasses\bin\Debug\PNY.Batch18.Common.pdb
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture8\PNY.Batch18\PNY.Batch18.POSClasses\obj\Debug\PNY.Batch18.POSClasses.csprojAssemblyReference.cache
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture8\PNY.Batch18\PNY.Batch18.POSClasses\obj\Debug\PNY.Batch18.POSClasses.csproj.CopyComplete
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture8\PNY.Batch18\PNY.Batch18.POSClasses\obj\Debug\PNY.Batch18.POSClasses.dll
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture8\PNY.Batch18\PNY.Batch18.POSClasses\obj\Debug\PNY.Batch18.POSClasses.pdb

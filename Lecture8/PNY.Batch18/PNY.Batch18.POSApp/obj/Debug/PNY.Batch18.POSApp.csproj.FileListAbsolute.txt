@@ -1,0 +1,5 @@
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture8\PNY.Batch18\PNY.Batch18.POSApp\bin\Debug\PNY.Batch18.POSApp.dll
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture8\PNY.Batch18\PNY.Batch18.POSApp\bin\Debug\PNY.Batch18.POSApp.pdb
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture8\PNY.Batch18\PNY.Batch18.POSApp\obj\Debug\PNY.Batch18.POSApp.csprojAssemblyReference.cache
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture8\PNY.Batch18\PNY.Batch18.POSApp\obj\Debug\PNY.Batch18.POSApp.dll
+Y:\Development\Teaching\DotNet\ASPNet_Batch18\Lecture8\PNY.Batch18\PNY.Batch18.POSApp\obj\Debug\PNY.Batch18.POSApp.pdb
