@@ -17,7 +17,8 @@ namespace WebUIMVC.Controllers
         // GET: Cities
         public ActionResult Index()
         {
-            return View(db.Cities.ToList());
+            var cities = db.Cities.Include(c => c.Country);
+            return View(cities.ToList());
         }
 
         // GET: Cities/Details/5
@@ -38,6 +39,7 @@ namespace WebUIMVC.Controllers
         // GET: Cities/Create
         public ActionResult Create()
         {
+            ViewBag.CountryID = new SelectList(db.Countries, "ID", "Name");
             return View();
         }
 
@@ -46,7 +48,7 @@ namespace WebUIMVC.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "ID,Name")] City city)
+        public ActionResult Create([Bind(Include = "ID,Name,CountryID")] City city)
         {
             if (ModelState.IsValid)
             {
@@ -55,6 +57,7 @@ namespace WebUIMVC.Controllers
                 return RedirectToAction("Index");
             }
 
+            ViewBag.CountryID = new SelectList(db.Countries, "ID", "Name", city.CountryID);
             return View(city);
         }
 
@@ -70,6 +73,7 @@ namespace WebUIMVC.Controllers
             {
                 return HttpNotFound();
             }
+            ViewBag.CountryID = new SelectList(db.Countries, "ID", "Name", city.CountryID);
             return View(city);
         }
 
@@ -78,7 +82,7 @@ namespace WebUIMVC.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "ID,Name")] City city)
+        public ActionResult Edit([Bind(Include = "ID,Name,CountryID")] City city)
         {
             if (ModelState.IsValid)
             {
@@ -86,6 +90,7 @@ namespace WebUIMVC.Controllers
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
+            ViewBag.CountryID = new SelectList(db.Countries, "ID", "Name", city.CountryID);
             return View(city);
         }
 
