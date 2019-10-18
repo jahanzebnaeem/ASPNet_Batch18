@@ -26,5 +26,11 @@ namespace MVCViews.Controllers
 
             return View();
         }
+        public ActionResult MyPage()
+        {
+            ViewBag.Message = "Welcome to my newly built page";
+
+            return View();
+        }
     }
 }

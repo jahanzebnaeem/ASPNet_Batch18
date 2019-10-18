@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewBag.Title = "Test";
+}
+
+<h2>@ViewBag.Title</h2>
+<h3>@ViewBag.Message</h3>
+<table>
+    @for (int i = 0; i < 9; i++)
+    {
+        if (i < 3)
+        {
+            if (i == 0)
+            {
+                @:<tr>
+                }
+                <td>@i</td>
+                if (i == 2)
+                {
+                @:</tr>
+            }
+        }
+        else if (i < 6)
+        {
+            if (i == 3)
+            {
+                @:<tr>
+            }
+                <td>@i</td>
+            if (i == 5)
+            {
+                @:</tr>
+            }
+        }
+        else
+        {
+            if (i == 6)
+            {
+                @:<tr>
+            }
+            <td>@i</td>
+            if (i == 8)
+            {
+                @:</tr>
+            }
+        }
+    }
+</table>
