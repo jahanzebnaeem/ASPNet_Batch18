@@ -168,18 +168,20 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\CitiesController.cs" />
+    <Compile Include="Controllers\CountriesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201910311154214_InitialMigration.cs" />
-    <Compile Include="Migrations\201910311154214_InitialMigration.Designer.cs">
-      <DependentUpon>201910311154214_InitialMigration.cs</DependentUpon>
+    <Compile Include="Migrations\201911011142039_InitialMigration.cs" />
+    <Compile Include="Migrations\201911011142039_InitialMigration.Designer.cs">
+      <DependentUpon>201911011142039_InitialMigration.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201910311216591_UpdateModel.cs" />
-    <Compile Include="Migrations\201910311216591_UpdateModel.Designer.cs">
-      <DependentUpon>201910311216591_UpdateModel.cs</DependentUpon>
+    <Compile Include="Migrations\201911011154563_ToSolveError.cs" />
+    <Compile Include="Migrations\201911011154563_ToSolveError.Designer.cs">
+      <DependentUpon>201911011154563_ToSolveError.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
@@ -246,6 +248,16 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\Countries\Create.cshtml" />
+    <Content Include="Views\Countries\Delete.cshtml" />
+    <Content Include="Views\Countries\Details.cshtml" />
+    <Content Include="Views\Countries\Edit.cshtml" />
+    <Content Include="Views\Countries\Index.cshtml" />
+    <Content Include="Views\Cities\Create.cshtml" />
+    <Content Include="Views\Cities\Delete.cshtml" />
+    <Content Include="Views\Cities\Details.cshtml" />
+    <Content Include="Views\Cities\Edit.cshtml" />
+    <Content Include="Views\Cities\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -264,11 +276,11 @@
     <Content Include="Scripts\jquery-3.3.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201910311154214_InitialMigration.resx">
-      <DependentUpon>201910311154214_InitialMigration.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201911011142039_InitialMigration.resx">
+      <DependentUpon>201911011142039_InitialMigration.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201910311216591_UpdateModel.resx">
-      <DependentUpon>201910311216591_UpdateModel.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201911011154563_ToSolveError.resx">
+      <DependentUpon>201911011154563_ToSolveError.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

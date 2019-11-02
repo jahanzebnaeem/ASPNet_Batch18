@@ -7,13 +7,13 @@ namespace MVCIdentity.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.2.0-61023")]
-    public sealed partial class UpdateModel : IMigrationMetadata
+    public sealed partial class ToSolveError : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(UpdateModel));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(ToSolveError));
         
         string IMigrationMetadata.Id
         {
-            get { return "201910311216591_UpdateModel"; }
+            get { return "201911011154563_ToSolveError"; }
         }
         
         string IMigrationMetadata.Source

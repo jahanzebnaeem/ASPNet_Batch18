@@ -13,7 +13,7 @@ namespace MVCIdentity.Migrations
         
         string IMigrationMetadata.Id
         {
-            get { return "201910311154214_InitialMigration"; }
+            get { return "201911011138375_InitialMigration"; }
         }
         
         string IMigrationMetadata.Source
