@@ -1,0 +1,21 @@
+﻿@{
+//string CurrentName = Convert.ToString(HttpContext.Current.Request.RequestContext.RouteData.Values["Controller"]);
+    @using MVCIdentity.Models
+    @using Microsoft.AspNet.Identity
+    @using Microsoft.AspNet.Identity.EntityFramework
+
+    ApplicationDbContext context = new ApplicationDbContext();
+
+    var roleManager = new RoleManager<IdentityRole>(new RoleStore<IdentityRole>(context));
+    dynamic Layout;
+
+    //if (roleManager.Roles. == "Admin" )
+    //{
+    //    case "Admin":
+    //        Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+    //        break;
+    //    default:
+    //        Layout = "~/Views/Shared/_Layout.cshtml";
+    //        break;
+    //}
+}
